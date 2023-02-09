@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.con {
+  width: 70vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 30px;
+  background-color: aliceblue;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+  font-size: larger;
+  font-weight: 500;
+  color: black;
+}
+.para {
+  font-size: x-small;
+  color: lightskyblue;
+}
+.button {
+  background-color: darkcyan;
+  color: whitesmoke;
+}
